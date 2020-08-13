@@ -61,4 +61,4 @@ fun test() {
 fun end() {
     println("Congratulations, have a nice day!")
 }
-# hyperskill-simple-chatty-bot
+// # hyperskill-simple-chatty-bot
